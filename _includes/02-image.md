@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Surfing the net](https://media.giphy.com/media/LGzrggUppEBdm/giphy.gif)
