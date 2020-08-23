@@ -1,1 +1,1 @@
-! [Surfing the net](https://media.giphy.com/media/LGzrggUppEBdm/giphy.gif)
+![Surfing the net](https://media.giphy.com/media/LGzrggUppEBdm/giphy.gif)
